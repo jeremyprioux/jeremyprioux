@@ -1,16 +1,16 @@
 <h2> Hello, I'm Jérémy Prioux 👋</h2>
-<hr/>
 
 
-💬 How to reach me: [LinkedIn](https://www.linkedin.com/in/jeremyprioux/)
+💬 **How to reach me**
 
-<hr/>
+[LinkedIn](https://www.linkedin.com/in/jeremyprioux/)
 
-📕 Latest publications
+
+📕 **Latest publications**
 
 *work in progress*
 
-
+<br/>
   [![Github Stats](https://github-readme-stats.vercel.app/api?username=jeremyprioux&count_private=true&hide=stars,prs,issues,contribs&show_icons=true)](https://github.com/jeremyprioux/github-readme-stats)
 
 <!--
