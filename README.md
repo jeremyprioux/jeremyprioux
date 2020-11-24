@@ -11,7 +11,8 @@
 *work in progress*
 
 <br/>
-  [![Github Stats](https://github-readme-stats.vercel.app/api?username=jeremyprioux&count_private=true&hide=stars,prs,issues,contribs&show_icons=true)](https://github.com/jeremyprioux/github-readme-stats)
+
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=jeremyprioux&count_private=true&hide=stars,prs,issues,contribs&show_icons=true)](https://github.com/jeremyprioux/github-readme-stats)
 
 <!--
 **jeremyprioux/jeremyprioux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
