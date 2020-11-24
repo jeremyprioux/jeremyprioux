@@ -1,9 +1,11 @@
-<h2> Hello, I'm Jérémy Prioux 👋</h2>
+<h2> Hello, I'm Jérémy Prioux ✌️</h2>
 
 
 💬 **How to reach me**
 
-[LinkedIn](https://www.linkedin.com/in/jeremyprioux/)
+
+<a href="https://linkedin.com/in/jeremyprioux" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jeremyprioux" height="30" width="40" /></a>
+<a href="https://twitter.com/jeremyprioux" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="jeremyprioux" height="30" width="40" /></a>
 
 
 📕 **Latest publications**
@@ -20,7 +22,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  [![Jérémy's Github Stats](https://github-readme-stats.vercel.app/api?username=jeremyprioux&count_private=true&hide=stars,prs,issues,contribs&show_icons=true)](https://github.com/jeremyprioux/github-readme-stats)
+  [![Github Stats](https://github-readme-stats.vercel.app/api?username=jeremyprioux&count_private=true&hide=stars,prs,issues,contribs&show_icons=true)](https://github.com/jeremyprioux/github-readme-stats)
 
 </details>
 
