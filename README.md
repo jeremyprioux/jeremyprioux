@@ -22,7 +22,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  [![Jérémy's Github Stats](https://github-readme-stats.vercel.app/api?username=jeremyprioux&count_private=true&hide=stars,prs,issues,contribs&show_icons=true)](https://github.com/jeremyprioux/github-readme-stats)
+  [![Github Stats](https://github-readme-stats.vercel.app/api?username=jeremyprioux&count_private=true&hide=stars,prs,issues,contribs&show_icons=true)](https://github.com/jeremyprioux/github-readme-stats)
 
 </details>
 
