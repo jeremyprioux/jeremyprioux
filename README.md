@@ -10,7 +10,7 @@
 
 📕 **Latest publications**
 
-*work in progress*
+- [My Awesome List](https://github.com/jeremyprioux/awesome) - this is a curated list of awesome tools (solutions, platforms, api ...) that I came across during my workdays.
 
 <br/>
 
